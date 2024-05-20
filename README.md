@@ -2,6 +2,15 @@
 
 Welcome to the repository for My Terraform Project. This project uses Terraform to manage and deploy infrastructure on AWS.
 
+
+## Resources
+
+Here are some resources to help you with Terraform and AWS:
+
+- [Terraform Documentation](https://developer.hashicorp.com/terraform/docs)
+- [AWS Documentation](https://docs.aws.amazon.com/)
+- [Terraform AWS Provider Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+
 ## Project Overview
 
 This Terraform project sets up an AWS infrastructure including:
@@ -16,17 +25,6 @@ This Terraform project sets up an AWS infrastructure including:
 Before you begin, ensure you have met the following requirements:
 - You have installed [Terraform](https://www.terraform.io/downloads.html)
 - You have an AWS account and your AWS credentials are configured (`aws configure`)
-
-
-## Resources
-
-Here are some resources to help you with Terraform and AWS:
-
-[Terraform Documentation](
-[AWS Documentation](https://docs.aws.amazon.com/)
-Terraform AWS Provider Documentation
-
-
 
 
 ## Installation
