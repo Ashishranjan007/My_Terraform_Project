@@ -110,11 +110,11 @@ resource "aws_lb" "myalb" {
   internal           = false
   load_balancer_type = "application"
 
-  security_groups = [aws_security_group.webSg.id]
+  security_groups = [aws_security_group.web-sg.id]
   subnets         = [aws_subnet.sub1.id, aws_subnet.sub2.id]
 
   tags = {
-    Name = "web"
+    Name = "Web"
   }
 }
 
