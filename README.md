@@ -24,3 +24,10 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone https://github.com/Ashishranjan007/My_Terraform_Project.git
    cd My_Terraform_Project
+
+2. Initialize Terraform:
+
+   '''bash
+   terraform init
+
+3. 
