@@ -2,15 +2,6 @@
 
 Welcome to the repository for My Terraform Project. This project uses Terraform to manage and deploy infrastructure on AWS.
 
-
-## Resources
-
-Here are some resources to help you with Terraform and AWS:
-
-- [Terraform Documentation](https://developer.hashicorp.com/terraform/docs)
-- [AWS Documentation](https://docs.aws.amazon.com/)
-- [Terraform AWS Provider Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
-
 ## Project Overview
 
 This Terraform project sets up an AWS infrastructure including:
@@ -55,3 +46,11 @@ Type yes when prompted to confirm the action.
 
    ```bash
    terraform destroy -auto-approve
+
+## Resources
+
+Here are some resources to help you with Terraform and AWS:
+
+- [Terraform Documentation](https://developer.hashicorp.com/terraform/docs)
+- [AWS Documentation](https://docs.aws.amazon.com/)
+- [Terraform AWS Provider Documentation](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
