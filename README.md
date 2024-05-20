@@ -27,7 +27,21 @@ Before you begin, ensure you have met the following requirements:
 
 2. Initialize Terraform:
 
-   '''bash
+   ```bash
    terraform init
 
-3. 
+3. Preview the changes Terraform will make to your infrastructure:
+
+   ```bash
+   terraform plan
+
+4. Apply the Terraform configuration to create the infrastructure:
+
+    ```bash
+    terraform apply -auto-approve
+Type yes when prompted to confirm the action.
+
+4. To destroy the infrastructure when you no longer need it:
+
+   ```bash
+   terraform destroy -auto-approve
