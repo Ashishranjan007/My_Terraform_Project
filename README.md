@@ -1,6 +1,6 @@
 # My_Terraform_Porject
 
-Welcome to the repository for my Terraform project. This project uses Terraform to manage and deploy infrastructure on AWS.
+Welcome to the repository for My Terraform Project. This project uses Terraform to manage and deploy infrastructure on AWS.
 
 ## Project Overview
 
@@ -9,6 +9,7 @@ This Terraform project sets up an AWS infrastructure including:
 - Subnets
 - S3 bucket
 - EC2 instances
+- Auto LoadBalancer
 
 ## Prerequisites
 
